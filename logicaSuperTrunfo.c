@@ -2,6 +2,8 @@
 
 int main() {
 
+
+//carta1    
 char estado1[25];
 char codigo[50];
 char cidade[50];
@@ -51,7 +53,7 @@ printf("pib per capita: %f\n", pc);
 printf("super poder: %.2f\n", superpoder);
 
 
-
+//carta 2
 char estado2[25];
 char codigo2[50];
 char cidade2[50];
