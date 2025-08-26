@@ -198,62 +198,7 @@ printf("pib oper capita: %d\n", pc > pc2);
 printf("super poder: %d\n", superpoder > superpoder2);
   
 
-//CONPARAÇAO DE QUAL CARTA GANHOU  
-if(populacao > populacao2){
-  printf("carta 1 venceu!\n");
-}else if (populacao < populacao2){
-  printf("carta 2 venceu!\n");
-}else{
-  printf("houveu um empate!\n");
-}  
 
-if(area > area2){
-  printf("carta 1 venceu!\n");
-}else if (area < area2){
-  printf("carta 2 venceu!\n");
-}else{
-  printf("houveu um empate!\n");
-}  
-
-if(pib > pib2){
-  printf("carta 1 venceu!\n");
-}else if (pib < pib2){
-  printf("carta 2 venceu!\n");
-}else{
-  printf("houveu um empate!\n");
-}  
-
-if(turisticos > turisticos2){
-  printf("carta 1 venceu!\n");
-}else if (turisticos < turisticos2){
-  printf("carta 2 venceu!\n");
-}else{
-  printf("houveu um empate!\n");
-}  
-
-if(dp < dp2){
-  printf("carta 1 venceu!\n");
-}else if (dp > dp2){
-  printf("carta 2 venceu!\n");
-}else{
-  printf("houveu um empate!\n");
-}  
-
-if(pc > pc2){
-  printf("carta 1 venceu!\n");
-}else if (pc < pc2){
-  printf("carta 2 venceu!\n");
-}else{
-  printf("houveu um empate!\n");
-}  
-
-if(superpoder > superpoder2){
-  printf("carta 1 venceu!\n");
-}else if (superpoder < superpoder2){
-  printf("carta 2 venceu!\n");
-}else{
-  printf("houveu um empate!\n");
-}  
 
 
 
